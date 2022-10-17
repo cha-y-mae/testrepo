@@ -8,7 +8,7 @@ import pic from '../../assets/finalversionpic.jpg'
 function Hero() {
     return (
         <div className='hero'> 
-            <img className='img' src={pic} alt='image' type='image/jpg' /> 
+            <img className='image' src={pic} alt='image' type='image/jpg' /> 
         
 
         
