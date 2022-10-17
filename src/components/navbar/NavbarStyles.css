@@ -66,6 +66,12 @@ li {
         color: #000;
     }
 
+     .logo{
+        width: 60px;
+        height:60px;
+        margin-top: 5px;
+    }
+    
     .dark {
         color: #000;
     }
