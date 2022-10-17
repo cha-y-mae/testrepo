@@ -98,6 +98,48 @@ overflow-x: hidden;
 
 
 
+ 
+     /*iphone SE*/ 
 
+
+     @media screen and (max-width: 375px) {
+
+        .image{
+              
+          height: 590px; 
+            width: 375px; 
+            overflow-x: hidden; 
+         }  
+
+     }
+          /*iphone XR*/ 
+
+     @media screen and (max-width: 414px) {
+
+        .image{
+              
+          height: 500px; 
+            width: 414px; 
+            overflow-x: hidden; 
+         }  
+
+     }
+
+
+     /*iphone 12 pro*/ 
+    
+    
+     @media screen and (max-width: 390px) {
+
+        .image{
+              
+          height: 470px; 
+            width: 390px; 
+            overflow-x: hidden; 
+         }  
+
+     }
+
+    
 
 
