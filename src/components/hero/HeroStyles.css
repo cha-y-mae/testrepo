@@ -62,7 +62,7 @@ overflow-x: hidden;
     .image{
           
       height: 700px; 
-        width:690px; 
+        width:620px; 
         overflow-x: hidden; 
      }  
     }
@@ -74,8 +74,9 @@ overflow-x: hidden;
         .image{
               
           height: 600px; 
-            width:620px; 
+            width:600px; 
             overflow-x: hidden; 
+          
          }  
 
      }
@@ -87,12 +88,14 @@ overflow-x: hidden;
         .image{
               
           height: 590px; 
-            width:495px; 
+            width: 500px; 
             overflow-x: hidden; 
          }  
 
      }
     
+
+
 
 
 
