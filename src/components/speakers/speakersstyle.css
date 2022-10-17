@@ -58,3 +58,13 @@
 }
 
 
+@media screen and (max-width: 950px) {
+ 
+  .column {
+    float: left;
+    width: 100%;
+    padding: 5px;
+  }
+  
+}
+
