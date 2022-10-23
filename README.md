@@ -2,15 +2,15 @@
 
 This repository contains code for the React App I developed to build a website for PI Farah Shamout's Clinical AI workshop. 
 
-## Available Scripts
+## Repository content 
 
-In the project directory, you can run:
+- A public folder with 4 files to set up the webiste icon on the title bar. 
+- A source folder that contains two folders:
+  1. An asset folder with all media (pictures in our case) used in the website. 
+  2. A components folder which contains 7 folders corresponding to the React components that we created. Each of these 7 folders contains a .js file and a .css file. 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+
 
