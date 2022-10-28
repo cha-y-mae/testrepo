@@ -61,7 +61,7 @@ function speakers() {
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/multimedia-and-visual-computing-lab.html">Yi Fang </a> -Associate Professor, NYU Abu Dhabi</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://math.nyu.edu/~cfgranda/">Carlos F. Granda </a> -Associate Professor, NYU Courant</p>
 
-                                <h2>Theme C: Clinical Practise and Applications</h2>
+                                <h2>Theme C: Implementation in the Clinical Setting</h2>
                                 <p> <a style={{ fontWeight: 'bold', color:'black'}} href="https://dihi.org/team-member/suresh-balu/">Suresh Balu </a> -Program Director, Duke Institute for Health Innovation</p>
                                
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/scientific-contributions/Mariam-Al-Harbi-2184877112">Mariam Al Harbi </a> -Abu Dhabi Health Services</p>
