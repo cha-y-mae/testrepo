@@ -7,7 +7,7 @@ function agenda() {
 
             <h1>Register for the workshop</h1>
          
-            <p className="welcome-text"> If you would like to attend the workshop, you can request an invitation by sending an email to <a style={{fontWeight: 'bold', color:'black'}} href="mailto:clinicalai@nyu.edu">clinicalai@nyu.edu</a></p>
+            <p className="welcome-text"> If you would like to attend the workshop, you can request an invitation by filling out <a style={{fontWeight: 'bold', color:'black'}} href="https://docs.google.com/forms/d/e/1FAIpQLSevSyer8QbS-VhC4hnitdOHnHznQ4lnzq9qCYRXg-zxKhIATA/viewform?vc=0&c=0&w=1&flr=0">this form.</a></p>
             <br></br>
     </div>
     )
