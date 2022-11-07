@@ -31,12 +31,12 @@ function speakers() {
                             <div className="column">
                             <img alt="pic" src={imagekrz} className="speakers-img" width={200} height={200}/>
                             <p className="comittee-name">Krzysztof J. Geras </p>
-                            <p className="comittee-name">NYU Lagone</p>
+                            <p className="comittee-name">NYU Langone</p>
                             </div>
                             <div className="column">
                             <img alt="pic" src={imagenargez} className="speakers-img" width={200} height={200}/>
                             <p className="comittee-name" > Narges Razavian  </p>
-                            <p className="comittee-name">NYU Lagone</p>
+                            <p className="comittee-name">NYU Langone</p>
                             </div> 
 
                             <div className='speaker-space'> </div>
