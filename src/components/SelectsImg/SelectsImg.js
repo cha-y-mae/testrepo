@@ -11,5 +11,4 @@ function SelectsImg({bgImg, text}) {
         </div>
     )
 }
-
 export default SelectsImg
