@@ -71,7 +71,7 @@ function speakers() {
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://healthyml.org/marzyeh/">Marzyeh Ghassemi </a> -Assistant Professor, MIT</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://uk.linkedin.com/in/rupa-sarkar-2b446442"> Rupa Sarkar </a> -Editor-in-Chief, The Lancet Digital Health</p>
                               
-                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cs.nyu.edu/~kgeras/">Krzysztof J. Geras </a> -Assistant Professor, NYU Lagone</p>
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cs.nyu.edu/~kgeras/">Krzysztof J. Geras </a> -Assistant Professor, NYU Langone</p>
 
                                 <h2>Theme E: Commercialization</h2>
                                
