@@ -25,7 +25,7 @@ function speakers() {
                             </div>
                             <div className="column">
                             <img alt="pic" src={imagecarlos} className="speakers-img" width={200} height={200}/>
-                            <p className="comittee-name">Carlos F. Granda   </p>
+                            <p className="comittee-name">Carlos Fernandez-Granda   </p>
                             <p className="comittee-name">NYU Courant</p>
                             </div>
                             <div className="column">
@@ -59,7 +59,7 @@ function speakers() {
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cims.nyu.edu/~rajeshr/">Rajesh Ranganath </a> - Associate Professor, NYU Courant</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://mp2893.com/">Edward Choi </a> - Assistant Professor, Korea Advanced Institute of Science & Technology </p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/multimedia-and-visual-computing-lab.html">Yi Fang </a> - Associate Professor, NYU Abu Dhabi</p>
-                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://math.nyu.edu/~cfgranda/">Carlos F. Granda </a> - Associate Professor, NYU Courant</p>
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://math.nyu.edu/~cfgranda/">Carlos Fernandez-Granda </a> - Associate Professor, NYU Courant</p>
 
                                 <h2>Theme C: Implementation in the Clinical Setting</h2>
                                 <p> <a style={{ fontWeight: 'bold', color:'black'}} href="https://dihi.org/team-member/suresh-balu/">Suresh Balu </a> - Program Director, Duke Institute for Health Innovation</p>
