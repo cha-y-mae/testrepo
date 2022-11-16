@@ -49,7 +49,8 @@ function speakers() {
                                 <h2>Keynote Speakers</h2>
                               
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.spchopra.org"> Sumit Chopra </a> - Associate Professor, NYU Grossman School of Medicine</p>
-                                <h2>Theme A: Clinical Practise and Applications</h2>
+                                <h2>Theme A: Clinical Practice and Applications</h2>
+ <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.oncology.cam.ac.uk/research/our-research/crispin "> Mireia Crispin </a> - University of Cambridge</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.moore.org/people-detail?personUrl=daniely"> Daniel Yang </a> - Program Director, Moore Foundation</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black' }} href="https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/pages/bartlomiej-piechowski-jozwiak.aspx">Bartlomiej Piechowski Jozwiak </a> - Physician, Cleveland Clinic Abu Dhabi</p>
                               
@@ -64,7 +65,7 @@ function speakers() {
                                 <h2>Theme C: Implementation in the Clinical Setting</h2>
                                 <p> <a style={{ fontWeight: 'bold', color:'black'}} href="https://dihi.org/team-member/suresh-balu/">Suresh Balu </a> - Program Director, Duke Institute for Health Innovation</p>
                                
-                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/scientific-contributions/Mariam-Al-Harbi-2184877112">Mariam Al Harbi </a> - Abu Dhabi Health Services</p>
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/scientific-contributions/Mariam-Al-Harbi-2184877112">Mariam Al Harbi </a> - Research Manager, Abu Dhabi Health Services</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="http://razavian.net/">Narges Razavian </a> - Assistant Professor, NYU Langone</p>
 
                                 <h2>Theme D: Open AI & Reproducibility</h2>
@@ -73,13 +74,16 @@ function speakers() {
                               
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cs.nyu.edu/~kgeras/">Krzysztof J. Geras </a> - Assistant Professor, NYU Langone</p>
 
-                                <h2>Theme E: Commercialization</h2>
+                                <h2>Theme E: Knowledge Mobilization</h2>
                                
-                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/profile/Louis-Atallah">Louis Atallah </a> - R&D Lead Philips Healthcare</p>
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/profile/Louis-Atallah">Louis Atallah </a> - R&D Lead, Philips Healthcare</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/">Mohammad Yaqub </a> - Assistant Professor, Mohamed bin Zayed University of Artificial Intelligence</p>
                              
                             </li>
                         </ul>
+
+              <h1>Acknowledgements</h1>
+
             </div>
         </div>
         </div>
