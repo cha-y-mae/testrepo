@@ -82,10 +82,7 @@ function speakers() {
                             </li>
                         </ul>
 
-              <h1>Acknowledgements</h1>
-
-                    <p className="welcome-text"> We would like to thank Chaimae Abouzahir for creating and managing the website and the NYU Abu Dhabi Engineering Division for sponsoring the workshop </p>
-
+           
             </div>
         </div>
         </div>
