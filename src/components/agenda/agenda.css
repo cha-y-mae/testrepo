@@ -8,6 +8,12 @@
     padding: 1rem;
 }
 
+.agenda h2{
+    padding: 1rem;
+    font-size: 20px;
+    color: #ab82c5;
+}
+
 .img-container {
     --gap:1rem;
     --num-cols:5;
