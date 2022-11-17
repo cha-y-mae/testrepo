@@ -50,7 +50,7 @@ function speakers() {
                               
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.spchopra.org"> Sumit Chopra </a> - Associate Professor, NYU Grossman School of Medicine</p>
                                 <h2>Theme A: Clinical Practice and Applications</h2>
- <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.oncology.cam.ac.uk/research/our-research/crispin "> Mireia Crispin </a> - University of Cambridge</p>
+ <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.oncology.cam.ac.uk/research/our-research/crispin "> Mireia Crispin </a> - Assistant Professor, University of Cambridge</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.moore.org/people-detail?personUrl=daniely"> Daniel Yang </a> - Program Director, Moore Foundation</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black' }} href="https://www.clevelandclinicabudhabi.ae/en/find-a-doctor/pages/bartlomiej-piechowski-jozwiak.aspx">Bartlomiej Piechowski Jozwiak </a> - Physician, Cleveland Clinic Abu Dhabi</p>
                               
@@ -78,6 +78,7 @@ function speakers() {
                                
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/profile/Louis-Atallah">Louis Atallah </a> - R&D Lead, Philips Healthcare</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/">Mohammad Yaqub </a> - Assistant Professor, Mohamed bin Zayed University of Artificial Intelligence</p>
+                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://eng.ox.ac.uk/people/ghadeer-ghosheh/">Ghadeer Ghosheh </a> - PhD Candidate, University of Oxford</p>
                              
                             </li>
                         </ul>
