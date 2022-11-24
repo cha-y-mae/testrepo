@@ -67,12 +67,15 @@ function speakers() {
                                
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/scientific-contributions/Mariam-Al-Harbi-2184877112">Mariam Al Harbi </a> - Research Manager, Abu Dhabi Health Services</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="http://razavian.net/">Narges Razavian </a> - Assistant Professor, NYU Langone</p>
+                                    <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://scholar.google.com/citations?user=Rn6JTuAAAAAJ&hl=en">Cian Hughes </a> - Google Health</p>
 
                                 <h2>Theme D: Open AI & Reproducibility</h2>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://healthyml.org/marzyeh/">Marzyeh Ghassemi </a> - Assistant Professor, MIT</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://uk.linkedin.com/in/rupa-sarkar-2b446442"> Rupa Sarkar </a> - Editor-in-Chief, The Lancet Digital Health</p>
                               
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cs.nyu.edu/~kgeras/">Krzysztof J. Geras </a> - Assistant Professor, NYU Langone</p>
+                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href=""> Pranav Rajkupar </a> - Harvard University</p>
+                              
 
                                 <h2>Theme E: Knowledge Mobilization</h2>
                                
