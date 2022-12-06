@@ -82,7 +82,7 @@ function speakers() {
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/profile/Louis-Atallah">Louis Atallah </a> - R&D Lead, Philips Healthcare</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://mbzuai.ac.ae/study/faculty/mohammad-yaqub/">Mohammad Yaqub </a> - Assistant Professor, Mohamed bin Zayed University of Artificial Intelligence</p>
                                  <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://eng.ox.ac.uk/people/ghadeer-ghosheh/">Ghadeer Ghosheh </a> - PhD Candidate, University of Oxford</p>
-                             
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.linkedin.com/in/skhanshadab/"> Shadab Khan </a> - Director of AI and Applied Science, G42 Healthcare </p>
                             </li>
                         </ul>
 
