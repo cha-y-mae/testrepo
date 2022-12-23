@@ -39,6 +39,11 @@
     color: #7b5aa6;
 }
 
+.logo{
+    height:150px; 
+    width:150px; 
+}
+
 .span-3 {
     grid-column: span 3;
 }
@@ -58,3 +63,4 @@
         grid-column: span 2;
     }
 }
+
