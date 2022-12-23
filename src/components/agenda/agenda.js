@@ -1,5 +1,6 @@
 import React from 'react'
 import './agenda.css'
+import CAIRLogo from '../../assets/CAIR-logo.png'
 
 function agenda() {
     return (
@@ -13,9 +14,14 @@ function agenda() {
    <h2>Acknowledgements</h2>
 
                     <p className="welcome-text"> We would like to thank Chaimae Abouzahir for creating and managing the website and the NYU Abu Dhabi Engineering Division for sponsoring the workshop </p>
+                    
 
+                 <img src={CAIRLogo} alt="logo"/>
     </div>
     )
 }
 
 export default agenda
+
+
+ <img src={CAIRLogo} alt="logo"/>
