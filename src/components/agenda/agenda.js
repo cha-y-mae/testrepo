@@ -16,7 +16,7 @@ function agenda() {
                     <p className="welcome-text"> We would like to thank Chaimae Abouzahir for creating and managing the website and the NYU Abu Dhabi Engineering Division for sponsoring the workshop </p>
                     
 
-                 <img src={CAIRLogo} className="logo" width={100} height={150} alt="logo"/>
+                 <img src={CAIRLogo} className="logo" width={50} height={50} alt="logo"/>
     </div>
     )
 }
