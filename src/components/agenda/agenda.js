@@ -24,4 +24,3 @@ function agenda() {
 export default agenda
 
 
- <img src={CAIRLogo} alt="logo"/>
