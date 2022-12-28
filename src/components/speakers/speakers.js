@@ -57,7 +57,7 @@ function speakers() {
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html" >Farah Shamout </a> - Assistant Professor, NYU Abu Dhabi</p>
 
                                 <h2>Theme B: Methods & Algorithms</h2>
-                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cims.nyu.edu/~rajeshr/">Rajesh Ranganath </a> - Associate Professor, NYU Courant</p>
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cims.nyu.edu/~rajeshr/">Rajesh Ranganath </a> - Assistant Professor, NYU Courant</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://mp2893.com/">Edward Choi </a> - Assistant Professor, Korea Advanced Institute of Science & Technology </p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html">Yi Fang </a> - Associate Professor, NYU Abu Dhabi</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://math.nyu.edu/~cfgranda/">Carlos Fernandez-Granda </a> - Associate Professor, NYU Courant</p>
