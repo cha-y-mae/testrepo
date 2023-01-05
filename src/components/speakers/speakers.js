@@ -63,14 +63,14 @@ function speakers() {
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://math.nyu.edu/~cfgranda/">Carlos Fernandez-Granda </a> - Associate Professor, NYU Courant</p>
 
                                 <h2>Theme C: Implementation in the Clinical Setting</h2>
-                                <p> <a style={{ fontWeight: 'bold', color:'black'}} href="https://dihi.org/team-member/suresh-balu/">Suresh Balu </a> - Program Director, Duke Institute for Health Innovation</p>
+                                <p> <a style={{ fontWeight: 'bold', color:'black'}} href="https://scholar.google.co.uk/citations?user=PytkJLcAAAAJ&hl=en">Arijit Patra </a> - Senior Principal Scientist, UCB</p>
                                
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://www.researchgate.net/scientific-contributions/Mariam-Al-Harbi-2184877112">Mariam Al Harbi </a> - Research Manager, Abu Dhabi Health Services</p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="http://razavian.net/">Narges Razavian </a> - Assistant Professor, NYU Langone</p>
                                     <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://scholar.google.ca/citations?hl=en&user=Q3YTKbwAAAAJ&view_op=list_works&sortby=pubdate">Cian Hughes </a> - Research Scientist, Google Health</p>
 
                                 <h2>Theme D: Open AI & Reproducibility</h2>
-                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://healthyml.org/marzyeh/">Marzyeh Ghassemi </a> - Assistant Professor, MIT</p>
+                                <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://shuyulin.co.uk">Shuyu Lin </a> - Applied Researcher, Tractable </p>
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://uk.linkedin.com/in/rupa-sarkar-2b446442"> Rupa Sarkar </a> - Editor-in-Chief, The Lancet Digital Health</p>
                               
                                 <p><a style={{ fontWeight: 'bold', color:'black'}} href="https://cs.nyu.edu/~kgeras/">Krzysztof J. Geras </a> - Assistant Professor, NYU Langone</p>
